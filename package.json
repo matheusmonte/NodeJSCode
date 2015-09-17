@@ -1,0 +1,9 @@
+{ "name" : "MatheusMonte"
+, "email" : "mcmonte@outlook.com"
+, "description" : "A project description"
+, "license" : "BSD-3-Clause"
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/matheusmonte/NodeJSCode.git"
+  }
+}
